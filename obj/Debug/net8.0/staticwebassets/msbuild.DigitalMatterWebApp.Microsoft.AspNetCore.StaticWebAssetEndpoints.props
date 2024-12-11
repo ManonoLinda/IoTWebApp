@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DigitalMatterWebApp.mt74jjxotu.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mi\u002BgYVaGMsIJGcfuYIB4wwnzGSGvU2RgIQqmGVNh\u002Bog="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1137"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mi\u002BgYVaGMsIJGcfuYIB4wwnzGSGvU2RgIQqmGVNh\u002Bog=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 07:42:18 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1137"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mi\u002BgYVaGMsIJGcfuYIB4wwnzGSGvU2RgIQqmGVNh\u002Bog=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:31:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DigitalMatterWebApp/DigitalMatterWebApp.mt74jjxotu.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DigitalMatterWebApp.mt74jjxotu.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mt74jjxotu"},{"Name":"integrity","Value":"sha256-mi\u002BgYVaGMsIJGcfuYIB4wwnzGSGvU2RgIQqmGVNh\u002Bog="},{"Name":"label","Value":"_content/DigitalMatterWebApp/DigitalMatterWebApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1137"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mi\u002BgYVaGMsIJGcfuYIB4wwnzGSGvU2RgIQqmGVNh\u002Bog=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 07:42:18 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1137"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mi\u002BgYVaGMsIJGcfuYIB4wwnzGSGvU2RgIQqmGVNh\u002Bog=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:31:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DigitalMatterWebApp/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

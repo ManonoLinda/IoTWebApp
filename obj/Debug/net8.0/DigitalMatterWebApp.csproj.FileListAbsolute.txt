@@ -151,6 +151,7 @@ C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\DigitalMatterWe
 C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\DigitalMatterWebApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\DigitalMatterWebApp.RazorAssemblyInfo.cache
 C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\DigitalMatterWebApp.RazorAssemblyInfo.cs
+C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\DigitalMatterWebApp.sourcelink.json
 C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\scopedcss\bundle\DigitalMatterWebApp.styles.css
 C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\scopedcss\projectbundle\DigitalMatterWebApp.bundle.scp.css
@@ -169,3 +170,4 @@ C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\refint\DigitalM
 C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\DigitalMatterWebApp.pdb
 C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\DigitalMatterWebApp.genruntimeconfig.cache
 C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\ref\DigitalMatterWebApp.dll
+C:\Users\linda\source\repos\DigitalMatterWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
