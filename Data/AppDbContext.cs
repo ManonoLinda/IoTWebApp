@@ -1,24 +1,20 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Reflection.Emit;
-using System.Text.RegularExpressions;
+﻿using DigitalMatterWebApp.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace DigitalMatterWebApp.Data
 {
     public class AppDbContext : DbContext
     {
+
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+        }
+        
         // Define your tables as DbSets
         public DbSet<Group> Groups { get; set; }
         public DbSet<Device> Devices { get; set; }
         public DbSet<Firmware> Firmwares { get; set; }
-
-        // Configures the connection to the database
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            // Replace with your actual connection string
-            optionsBuilder.UseSqlServer("Server=Ratos-Laptop;Database=IoTDevicesTracking;Trusted_Connection=True;TrustServerCertificate=True");
-        }
-
+        
         // Additional configuration can go here (e.g., relationships)
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -29,6 +25,8 @@ namespace DigitalMatterWebApp.Data
                 .HasOne(g => g.ParentGroup)
                 .WithMany(g => g.SubGroups)
                 .HasForeignKey(g => g.ParentGroupID);
+            
+            modelBuilder.Entity<Firmware>().ToTable("Firmware");
         }
     }
 }

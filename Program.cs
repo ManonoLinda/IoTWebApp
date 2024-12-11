@@ -10,9 +10,11 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+builder.Services.AddRazorPages();
+
 var app = builder.Build();
 
-builder.Services.AddRazorPages();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
