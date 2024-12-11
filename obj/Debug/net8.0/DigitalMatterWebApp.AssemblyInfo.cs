@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalMatterWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f03fb4b4dbeb63d9f5b7d6819f0189d9e8a0f89f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c8867d40b52dd6b271485ada554a3f05d75062")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalMatterWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalMatterWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

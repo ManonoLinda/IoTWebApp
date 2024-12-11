@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\models\\devicefirmwareviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,19 +54,6 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-11T12:11:12.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "DeviceFirmwareViewModel.cs",
               "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Models\\DeviceFirmwareViewModel.cs",
@@ -75,12 +62,11 @@
               "RelativeToolTip": "Models\\DeviceFirmwareViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T12:03:43.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T12:03:43.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -88,12 +74,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:56:46.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:56:46.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -101,12 +86,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:59:21.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T07:59:21.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Models\\Group.cs",
               "RelativeDocumentMoniker": "Models\\Group.cs",
@@ -114,12 +98,11 @@
               "RelativeToolTip": "Models\\Group.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:31:02.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T07:31:02.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Firmware.cs",
               "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Models\\Firmware.cs",
               "RelativeDocumentMoniker": "Models\\Firmware.cs",
@@ -127,12 +110,11 @@
               "RelativeToolTip": "Models\\Firmware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:34:44.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T07:34:44.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -140,21 +122,32 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-11T08:05:11.521Z",
+              "WhenOpened": "2024-12-11T08:05:11.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:08:24.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T12:08:24.397Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T12:11:12.458Z"
             },
             {
               "$type": "Document",
