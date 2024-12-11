@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\models\\firmware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:models\\firmware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|c:\\users\\linda\\source\\repos\\digitalmatterwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C70B6-A9FB-4B5E-AD2B-B332C31C70EA}|DigitalMatterWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T08:05:11.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:59:21.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Firmware.cs",
+              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Models\\Firmware.cs",
+              "RelativeDocumentMoniker": "Models\\Firmware.cs",
+              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Models\\Firmware.cs",
+              "RelativeToolTip": "Models\\Firmware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:34:44.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:33:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Models\\Group.cs",
+              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Models\\Group.cs",
+              "RelativeToolTip": "Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:31:02.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\linda\\source\\repos\\DigitalMatterWebApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:21:40.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
